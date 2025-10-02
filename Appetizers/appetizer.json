@@ -8,7 +8,7 @@
       "calories": 450,
       "price": 6.99,
       "carbs": 3,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Blackened-Shrimp.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Blackened-Shrimp.jpeg"
     },
     {
       "name": "Lemon Garlic Scallops",
@@ -18,7 +18,7 @@
       "calories": 380,
       "price": 11.99,
       "carbs": 5,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Lemon-Garlic-Scallops.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Lemon-Garlic-Scallops.jpeg"
     },
     {
       "name": "Coconut Shrimp",
@@ -28,7 +28,7 @@
       "calories": 520,
       "price": 8.49,
       "carbs": 18,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Coconut-Shrimp.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Coconut-Shrimp.jpeg"
     },
     {
       "name": "Oysters Rockefeller",
@@ -38,7 +38,7 @@
       "calories": 410,
       "price": 13.50,
       "carbs": 7,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Oysters-Rockefeller.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Oysters-Rockefeller.jpeg"
     },
     {
       "name": "Cajun Calamari",
@@ -48,7 +48,7 @@
       "calories": 390,
       "price": 7.99,
       "carbs": 12,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Cajun-Calamari.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Cajun-Calamari.jpeg"
     },
     {
       "name": "Tuna Tartare",
@@ -58,7 +58,7 @@
       "calories": 320,
       "price": 12.99,
       "carbs": 4,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Tuna-Tartare.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Tuna-Tartare.jpeg"
     },
     {
       "name": "New England Clam Chowder",
@@ -68,7 +68,7 @@
       "calories": 480,
       "price": 6.99,
       "carbs": 25,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/New-England-Clam-Chowder.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/New-England-Clam-Chowder.jpeg"
     },
     {
       "name": "Crab Cakes",
@@ -78,7 +78,7 @@
       "calories": 430,
       "price": 10.99,
       "carbs": 10,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Crab-Cakes.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Crab-Cakes.jpeg"
     },
     {
       "name": "Mussels Marinara",
@@ -88,7 +88,7 @@
       "calories": 360,
       "price": 9.49,
       "carbs": 15,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Mussels-Marinara.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Mussels-Marinara.jpeg"
     },
     {
       "name": "Grilled Octopus",
@@ -98,7 +98,7 @@
       "calories": 310,
       "price": 14.99,
       "carbs": 5,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Grilled-Octopus.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Grilled-Octopus.jpeg"
     },
     {
       "name": "Shrimp Cocktail",
@@ -108,7 +108,7 @@
       "calories": 290,
       "price": 8.99,
       "carbs": 8,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Shrimp-Cocktail.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Shrimp-Cocktail.jpeg"
     },
     {
       "name": "Fish Tacos",
@@ -118,7 +118,7 @@
       "calories": 550,
       "price": 7.49,
       "carbs": 30,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Fish-Tacos.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Fish-Tacos.jpeg"
     },
     {
       "name": "Lobster Bisque",
@@ -128,7 +128,7 @@
       "calories": 470,
       "price": 9.99,
       "carbs": 12,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Lobster-Bisque.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Lobster-Bisque.jpeg"
     },
     {
       "name": "Ceviche",
@@ -138,7 +138,7 @@
       "calories": 280,
       "price": 8.50,
       "carbs": 6,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Ceviche.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Ceviche.jpeg"
     },
     {
       "name": "Fried Clam Strips",
@@ -148,7 +148,7 @@
       "calories": 510,
       "price": 6.99,
       "carbs": 20,
-      "imageURL": "https://ocsphylee.github.io/Training_dataSet/AppetizerImage/Fried-Clam-Strips.jpeg"
+      "imageURL": "https://ocsphylee.github.io/MyAPPTestData/Appetizers/Fried-Clam-Strips.jpeg"
     }
   ]
 }
